@@ -21,7 +21,7 @@ Here's what the process of Sentiment analysis looked like:
 🧠 At this point, you know how people feel about each key theme (like AI or Privacy) for each browser. 
 7. Make easy-to-read visuals that show what people like or dislike about each browser (like Edge or Chrome) across different areas like AI, Privacy, or Speed.
 
-Scripts and data folder will help in a better understanding. Feel free to download the scripts and modify according to your needs. Happy learning!
+Scripts and data folder will help in a better understanding. Feel free to download the scripts from project_scripts and modify according to your needs. Happy learning!
 
 
 
